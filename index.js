@@ -5,3 +5,4 @@ divide
 inc 
 dec 
 makeInt
+preserveDecimal
