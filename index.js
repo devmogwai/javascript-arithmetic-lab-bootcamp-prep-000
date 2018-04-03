@@ -1,8 +1,24 @@
-function add ()
-subtract
-multiply
-divide
-inc 
-dec 
-makeInt
-preserveDecimal
+function add () {
+  
+}
+function subtract () {
+  
+}
+function multiply () {
+  
+}
+function divide () {
+  
+}
+function inc () {
+  
+}
+function dec () {
+  
+}
+function makeInt () {
+  
+}
+function preserveDecimal () {
+  
+}
